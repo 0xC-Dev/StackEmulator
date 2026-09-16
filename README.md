@@ -5,7 +5,9 @@ assembly, step through it one instruction at a time, and watch the CPU
 registers and the stack change.
 
 This is a tool I vibe coded to help me visualize the Stack and understand 
-ASM operations while going through the OST2.fyi Arch 1001 course.
+ASM operations while going through the OST2.fyi Architecture 1001 course.
+
+Check it out - https://p.ost2.fyi/courses/course-v1:OpenSecurityTraining2+Arch1001_x86-64_Asm+2021_v1/about
 
 ![alt text](/examples/image.png)
 
