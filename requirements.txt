@@ -1,0 +1,6 @@
+textual>=0.60.0
+rich>=13.7.0
+unicorn>=2.0.1
+keystone-engine>=0.9.2
+capstone>=5.0.1
+pygments>=2.16.0
